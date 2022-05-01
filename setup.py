@@ -25,7 +25,7 @@ setuptools.setup(
     description="Code for 'HyperNeRF'.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/google/hypernerf",
+    url="https://github.com/colincqian/hypernerf",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
